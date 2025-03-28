@@ -10,3 +10,4 @@ abstract class Env {
   @EnviedField(varName: 'SUPABASE_ANON_KEY')
   static const String supabaseAnonKey = _Env.supabaseAnonKey;
 }
+
